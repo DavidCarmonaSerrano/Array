@@ -7,7 +7,8 @@ Scanner intro= new Scanner(System.in);
 
 /**
  * 
- * @param vector 
+ * @param vector
+ * Inicializa un vector con los valores que un usuario ha introducido
  * 
  */
     public void Inicializar (int vector[]){
